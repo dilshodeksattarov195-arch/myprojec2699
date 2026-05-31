@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartferify",
+        "uuid": 21381478,
+        "checksum": "f8p88a"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
